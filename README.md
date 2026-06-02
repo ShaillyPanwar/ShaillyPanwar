@@ -11,6 +11,18 @@ Building my own Voice Assistant Nova
 
 Passionate about AI Systems & Backend Development
 
+<div align="center">
+  <img src="FromKlickPin2-Minecraft-4tPdQMmhw-ezgif.com-speed.gif" style="width:100%; height:auto;" />
+</div>
+<br>
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/ShaillyPanwar" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShaillyPanwar&theme=dark" />
+</div>
+
 
 # 🚀 ABOUT ME
 Currently pursuing MCA
