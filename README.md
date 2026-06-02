@@ -13,25 +13,25 @@ Passionate about AI Systems & Backend Development
 
 
 # 🚀 ABOUT ME
-Currently pursuing MCA (3rd semester)
+Currently pursuing MCA
 
 
-Interested in:
+#### Interested in:
 
 
-Artificial Intelligence & Machine Learning
+- Artificial Intelligence & Machine Learning
 
 
-Backend Development
+- Backend Development
 
 
-APIs & System Design
+- APIs & System Design
 
 
-Building Nova – a Python-based AI Voice Assistant with memory & personality
+- Building Nova – a Python-based AI Voice Assistant with memory & personality
 
 
-Continuously improving DSA, problem-solving & real-world project skills
+- Continuously improving DSA, problem-solving & real-world project skills
 
 
 # 🧠 PROJECTS
@@ -41,31 +41,31 @@ Continuously improving DSA, problem-solving & real-world project skills
 Built using Python + Streamlit
 
 
-Features:
+##### Features:
 
 
-Voice interaction
+- Voice interaction
 
 
-Wikipedia summaries
+- Wikipedia summaries
 
 
-Media controls
+- Media controls
 
 
-System utilities
+- System utilities
 
 
 ##### Currently working on:
 
 
-Contextual memory
+- Contextual memory
 
 
-Proper backend
+- Proper backend
 
 
-Customizing personality 
+- Customizing personality 
 
 
 # 🛠️ TECH STACK
@@ -74,38 +74,37 @@ Customizing personality
 #### Languages
 
 
-Python
+- Python
 
 
-Java
+- Java
 
 
-C++
+- C++
 
-
-SQL
 
 ##### Backend & Tools
 
 
-MongoDB
+- MongoDB
 
 
-Streamlit
+- MYSQL
 
 
-Postman
+- Streamlit
 
 
-mySQL
+- Postman
+
 
 ##### Tools & Platforms
 
 
-Git & GitHub
+- Git & GitHub
 
 
-VS Code
+- VS Code
 
 
 # 📚 CURRENTLY LEARNING
