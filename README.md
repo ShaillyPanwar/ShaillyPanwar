@@ -20,8 +20,8 @@
 # 🧠 Projects & Learnings
 - Currently working on: Contextual memory, Proper backend & Customizing personality for Nova
 - Learning: Springboot , REST APIs, PostgreSQL
-- All projects: https://github.com/ShaillyPanwar?tab=repositories
-- Resume: https://github.com/ShaillyPanwar/ShaillyPanwar/blob/e75041820c90266886dc5a332d96cd492577b648/SHAILLY%20RESUME.pdf
-- Portfolio: https://shaillywork.lovable.app/
+- All projects: [View Repositories](https://github.com/ShaillyPanwar?tab=repositories)
+- Resume: [Resume](https://github.com/ShaillyPanwar/ShaillyPanwar/blob/e75041820c90266886dc5a332d96cd492577b648/SHAILLY%20RESUME.pdf)
+- Portfolio: [Visit Portfolio](https://shaillywork.lovable.app/)
 
 
