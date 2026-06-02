@@ -4,7 +4,7 @@
 <div align="center"> <img src="FromKlickPin2-Minecraft-4tPdQMmhw-ezgif.com-speed.gif" style="width:100%; height:auto;" /> <br/><br/> <img src="https://github-readme-stats.shion.dev/api?username=ShaillyPanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> <br/><br/> <img src="https://streak-stats.demolab.com/?user=ShaillyPanwar&theme=dark&hide_border=false" /> <br/><br/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ShaillyPanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> </div>
 
 # 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailly-panwar-593805273/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaillyyypanwar@gmail.com)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shaillypanwar7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailly-panwar-593805273/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shaillyyypanwar@gmail.com)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shaillypanwar7)  
 
 # 💻 Tech Stack: 
 ### 👩‍💻 Languages
