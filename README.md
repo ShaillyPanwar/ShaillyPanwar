@@ -17,14 +17,14 @@ Continuously improving DSA, problem-solving & real-world project skills
 
 
 ## 🧠 PROJECTS
-# 🤖 Nova – AI Voice Assistant
+🤖 Nova – AI Voice Assistant
 Built using Python + Streamlit
 Features:
 Voice interaction
 Wikipedia summaries
 Media controls
 System utilities
-# Currently working on:
+Currently working on:
 Contextual memory
 Proper backend
 Customizing personality 
